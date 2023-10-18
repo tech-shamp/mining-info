@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo "Welcome to Broughtly Script"
+echo "Starting Miner!!!"
+
 TDir="~/xmrig/build"
 CDir=$(pwd)
 
